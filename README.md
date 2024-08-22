@@ -8,7 +8,7 @@ Explain what software engineering is and discuss its importance in the technolog
 answer
 software engineering is the application of engineering principles to develop software applications to solve user needs.
 these principles follow a path or circle called the software development life cycle: requirement, analysis, design, development, testing, deployment, and maintenance
-################################################################
+
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 The milestones includes
@@ -16,7 +16,7 @@ The milestones includes
 2. The establishment of software engineering as a disciline in the 1960.
 3. The advent of structured programming in the 1970s.
 4. the rise of agile methodologies in the 2000s.
-################################################################################
+
 
 List and briefly explain the phases of the Software Development Life Cycle.
 The phases of software development life cycle includes:
@@ -27,7 +27,7 @@ The phases of software development life cycle includes:
 5. testing: in this phase various test are carried out to make sure that the system meets up to the users needs.
 6. Deployment: In this phase the developed software is deployed to the user for use.
 7. maintainenace: this phase deals with the maintainenace of the developed software.
-##########################################################################################################################################
+
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 1. The waterfall methodology deals with the movement of sdlc in a squencial order, meaning that it flows from top to bottom, it is rigid and strict.
@@ -37,8 +37,6 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 3. examples of scenerio where each would be appropriate
    -waterfall is used in a small application development,mainly used for learning.
    -agile is widely used for large software development, because of its rapid iteration abilities, it gives developers the priviledge to organize sprints and see where they are going .
-#############################################################################################################################################################################################
-
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1. software developer: software developer is the personel(s) in a team whoo is tasked with the development of the software that is writing the codes, debugging the software, and controlling the version.
@@ -48,7 +46,6 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
    -estimation of the time rwquired to develop a software.
    - the number of people
    - the amount of funds needed to bring a project to completion
-  ###########################################################################################################################################################################################################
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
@@ -61,14 +58,13 @@ The challenges faced by software engineers includes but not limited the followin
 -changing requirement in the cause of software development.
 -tight deadlines when dealing with complex software.
 -technicl debts.
-#################################################################################################################################################################
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 -Unit testing: This involves testing the individual components and module of the software.
 -Integration testing: this involves testing the interaction between the different components of a software.
 -System Testing: Testing the entire software as a whole.
 -Acceptance Testing: this involvews testing the software to see if it meets up with the user requirements.
-##########################################################################################################################################
+
 
 
 #Part 2: Introduction to AI and Prompt Engineering
